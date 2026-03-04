@@ -1,1 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
 
+  <title>Interview — Ben Rabuzin</title>
+
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+
+<header>
+  <h1>Interview with Ben Rabuzin </h1>
+  <p><strong>Role:</strong> Sous Chef at Millcroft Inn & Spa</p>
+</header>
+
+<nav>
+  <ul>
+    <li><a href="../index.html">Home</a></li>
+    <li><a href="../about.html">About the Project</a></li>
+    <li><a href="../interviews.html">Interviews</a></li>
+    <li><a href="../recipes.html">Recipes</a></li>
+    <li><a href="../bibliography.html">Recipes</a></li>
+  </ul>
+</nav>
+
+<main>
+
+<section>
+  <h2>Context</h2>
+  <p>
+    This interview discusses themes of Memory, Multiculturalism, Identity & Understanding why we cook 
+  </p>
+</section>
+
+<section>
+  <h2>Interview Excerpts</h2>
+
+  <blockquote>
+    “Quotes and answers from interviews will go here.”
+  </blockquote>
+
+  <p>
+    — Interview conducted on [date]
+  </p>
+
+</section>
+
+<section>
+  <h2>Research Lens</h2>
+
+  <p>
+   scholarly context here
+  </p>
+
+  <blockquote>
+    “Short scholarly quotation here”
+    <br>
+    — Author, <em>Title</em>, page #
+  </blockquote>
+
+</section>
+
+<section>
+  <h2>Interpretive Note</h2>
+
+  <p>
+    Reflection connecting the interview to broader themes of
+    food, memory, identity, and culture
+  </p>
+</section>
+
+</main>
+
+<footer>
+  <p>
+    A CTS Capstone Project by Jeff McKay · University of Guelph
+  </p>
+</footer>
+
+</body>
+</html>
