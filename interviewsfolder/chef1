@@ -3,9 +3,10 @@
 <head>
   <meta charset="UTF-8">
 
-  <title>Interview — Rami Jisri</title>
+<!-- Interview title here -->
+<title>Interview — Rami Jisri</title>
 
-  <link rel="stylesheet" href="../css/style.css">
+<link rel="stylesheet" href="../css/style.css">
 </head>
 
 <body>
@@ -27,6 +28,7 @@
 
 <main>
 
+<!-- Describes interview theme -->
 <section>
   <h2>Context</h2>
   <p>
