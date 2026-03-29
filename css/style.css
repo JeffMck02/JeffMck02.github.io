@@ -101,6 +101,37 @@ nav {
   margin-bottom: 30px;
 }
 
+/* Splits interview pages to right and left */
+.interview-container {
+  display: flex;
+  gap: 40px;
+  margin-top: 30px;
+}
+/* left side */
+.interview-left {
+  width: 60%;
+}
+
+/* right side */
+.interview-right {
+  width: 40%;
+  background-color: #f9f9f9;
+  padding: 15px;
+  border-left: 2px solid #ddd;
+}
+
+/* @media sets rules for mobile vs desktop */
+@media (max-width: 768px) {
+  .interview-container {
+    flex-direction: column;
+  }
+
+  .interview-left,
+  .interview-right {
+    width: 100%;
+  }
+}
+
 
 
 
