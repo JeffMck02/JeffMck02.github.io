@@ -133,11 +133,10 @@ nav {
 }
 
 /* image sizing */
-.about-image img {
+img {
   max-width: 400px;
   width: 100%;
   height: auto;
-  border radius: 8px;
 }
 
 
