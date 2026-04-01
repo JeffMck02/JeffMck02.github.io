@@ -139,5 +139,29 @@ img {
   height: auto;
 }
 
+/* image row layout */
+.image-row {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  margin: 30px 0;
+}
+
+.image-row img {
+  max-width: 300px;
+  border-radius: 8px;
+}
+
+.image-row div {
+  text-align: center;
+}
+
+.caption {
+  font-size: 0.9em;
+  color: #555;
+  margin-top: 8px;
+  text-align: center;
+}
+
 
 
